@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "types": ["@types/lucide-react", "@types/react", "@types/react-dom"],
     "paths": {
       "@/*": ["./*"]
     },
