@@ -4,7 +4,6 @@
     "paths": {
       "@/*": ["./*"]
     },
-    "typeRoots": ["./types", "./node_modules/@types"],
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "target": "ES6",
