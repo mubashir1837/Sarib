@@ -68,9 +68,6 @@ This project uses the following key dependencies:
 
 For a complete list of dependencies, refer to the `package.json` file.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---  
 
